@@ -1,7 +1,7 @@
 # a easy timeline manager
 ----
 
-@version 1.4.1
+@version 1.4.1  
 @author dron
 
 ## Basic usage:
